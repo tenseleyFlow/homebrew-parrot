@@ -1,8 +1,8 @@
 class Parrot < Formula
   desc "Intelligent roasts of failed commands"
   homepage "https://repos.musicsian.com/parrot.html"
-  url "https://github.com/tenseleyFlow/parrot/archive/v1.5.1.tar.gz"
-  sha256 "e7d4394fd40bb1e01df7c030ad106e337451e36ca48dff7589bc4a886920da9b"
+  url "https://github.com/tenseleyFlow/parrot/archive/v1.6.0.tar.gz"
+  sha256 "2667bdcab1f2a028bb1cb55a4d111feb93d91033c1f16462be2ce200c0348a1e"
   license "MIT"
 
   depends_on "go" => :build
