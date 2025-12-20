@@ -1,8 +1,8 @@
 class Parrot < Formula
   desc "Intelligent CLI command failure assistant with AI-powered responses"
   homepage "https://repos.musicsian.com/parrot.html"
-  url "https://github.com/tenseleyFlow/parrot/archive/v1.8.2.tar.gz"
-  sha256 "23b36bd44b50d833063924d2152e89fcbf28428bc9bfeaaef2322b00b7c9a7cc"
+  url "https://github.com/tenseleyFlow/parrot/archive/v1.8.4.tar.gz"
+  sha256 "d37365e4772e8632a51355ea67cb077599e181bbaec5fd34ceba909a59b19566"
   license "MIT"
 
   depends_on "go" => :build
